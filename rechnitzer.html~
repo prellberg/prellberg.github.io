@@ -1,0 +1,27 @@
+<p>Disproving things is easier when you know they are false - experimenting with two conjectures on pattern-avoiding permutations</p>
+
+<p>Andrew Rechnitzer, University of Melbourne</p>
+
+<p>Abstract:</p>
+
+<p>
+When I started my PhD I learnt many new mathematical ideas and
+techniques. Perhaps the most important of these was
+
+"It is always easier to prove something when you know it is true."</p><p>
+
+I have used this idea a great deal in my work; computer aided number
+crunching has paved the way to many of my results. Recently I was
+introduced the problem of counting pattern-avoiding permutations.</p><p>
+This problem arises in different contexts in computer science and
+algebra. In the last decade or so it has been subject to a great deal
+of work and a number of conjectures have been made. Some of these have
+recently been proved, but much work remains to be done.</p><p>
+
+In this talk I will give a general discussion of pattern-avoiding
+permutations before focussing on some of the experimental work I have
+done which led me to realise (but not prove) that two open conjectures
+were false. Thankfully it *is* easier to disprove something when you
+know it is false, and I will show you how we disproved one conjecture
+and some of our work towards disproving the other.</p>
+

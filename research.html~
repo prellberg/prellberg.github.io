@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Research Record</title>
+</head>
+<body text="#ffffff" bgcolor="#000000" link="#ffffff" vlink="#c0c0c0"
+ background="space.jpg">
+<p> <font size="+1">Research highlights:</font> </p>
+<p>
+<UL>
+<LI>My <A HREF="report.html">favorite
+ papers</A> (keeps changing...)
+<LI>The <FONT COLOR="#FFFFAA">Takeuchi-Prellberg constant</FONT>
+explained in Steve Finch's book <A HREF="http://pauillac.inria.fr/algo/bsolve/constant/constant.html"> Mathematical Constants</A>
+<LI>My <A HREF="http://www.oakland.edu/enp">
+Erd&ouml;s number</A> is 2 (via Cameron). Some other paths leading to Erd&ouml;s: Guttmann-Szekeres(&#8224;), Harborth-Harary(&#8224;).</LI>
+</UL>
+</p>
+<hr>
+<p> <font size="+1">Current Research Interests:</font> </p>
+<p>
+<table>
+  <tbody>
+    <tr>
+      <td>
+      <p> Theoretical Physics: </p>
+      <ul>
+        <li> Flat-histogram methods</li>
+	(with <a href="http://www.complex.org.au">Jaroslaw Krawczyk</a>,
+University of Melbourne, Australia)
+      </ul>
+      <ul>
+        <li> Simulations of extended Domb-Joyce model</li>
+	(with <a href="http://www.complex.org.au">Jaroslaw Krawczyk</a>,
+University of Melbourne, Australia)
+      </ul>
+      <ul>
+        <li> Stochastic algorithms in statistical physics</li>
+(with <a
+ href="http://www.fz-juelich.de/nic/Forschungsgruppen/Komplexe_Systeme/index.shtml">Peter
+Grassberger</a>, FZ J&uuml;lich, Germany)
+      </ul>
+      <ul>
+        <li> Phase transitions in polymer systems</li>
+(with <a href="http://www.ms.unimelb.edu.au/%7Ealeks">Aleksander L.
+Owczarek</a>, University of Melbourne, Australia)<br>
+        <br>
+        <li> Pulling adsorbing and interacting polymers (with <a
+ href="http://www.ms.unimelb.edu.au/%7Ealeks">Aleksander L. Owczarek</a>,
+University of Melbourne, Australia)</li>
+      </ul>
+      </td>
+      <td>
+      <p> Mathematical Physics: </p>
+      <ul>
+        <li>Thermodynamics of a Farey Spin Chain (with <a
+ href="http://www.ume.maine.edu/LASST/lasst-staff/faculty/kleban/kleban.htm">Peter
+Kleban</a>, University of Maine, USA)<br>
+        </li>
+      </ul>
+      <ul>
+        <li> Scaling functions of vesicle models (with <a
+ href="http://www.uni-greifswald.de/%7Ewwwmathe/members/phpages/richardc.rdf.html">Christoph
+Richard</a>, University of Greifswald, Germany)</li>
+      </ul>
+      <ul>
+        <li> lattice trees (with <a
+ href="http://www.ms.unimelb.edu.au/%7Eandrewr">Andrew Rechnitzer</a>,
+University of Melbourne, Australia</li>
+      </ul>
+      <p>Mathematics: </p>
+      <ul>
+        <li> Iterative functional equations and the <a
+ href="http://pauillac.inria.fr/algo/bsolve/constant/constant.html"><font
+ color="#ffffaa">Takeuchi-Prellberg constant</font></a></li>
+      </ul>
+      <ul>
+      </ul>
+      <ul>
+        <li> Asymptotic problems in enumerative combinatorics (with <a
+ href="http://algo.inria.fr/flajolet/">Philippe Flajolet</a>, INRIA
+Rocquencourt, France)</li>
+      </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</P>
+<hr><font size="+1"><br>
+Recent Research Interests:</font>
+<p> </p>
+<p>
+<table>
+  <tbody>
+    <tr>
+      <td>
+      <p> Theoretical Physics: </p>
+      <ul>
+        <li> Phenomenological models for high-temperature
+superconductivity</li>
+(with <a href="http://www.phy.syr.edu/%7Eaam">A. Alan Middleton</a> and <a
+ href="http://www.phy.syr.edu/%7Emcm">M. Cristina Marchetti</a>,
+Syracuse University, USA)
+      </ul>
+      <ul>
+        <li> Dynamics of a driven particle system</li>
+(with <a href="http://www.fkp.physik.tu-darmstadt.de/drossel/">Barbara
+Drossel</a>, Technical University Darmstadt, Germany)
+      </ul>
+      <ul>
+        <li> Winding Angles for Polymers</li>
+(with <a href="http://www.fkp.physik.tu-darmstadt.de/drossel/">Barbara
+Drossel</a>, Technical University Darmstadt, Germany)
+      </ul>
+      <p> Mathematical Physics: </p>
+      <ul>
+        <li> Spectral analysis of intermittency transfer operators (with <a
+ href="http://www.dynamik.tu-clausthal.de/">Dieter Mayer</a>, TU
+Clausthal, Germany)</li>
+      </ul>
+      </td>
+      <td>
+      <p> Experimental Physics: </p>
+      <ul>
+        <li> Non-linear contact mechanics of quartz crystal resonators</li>
+(with <a href="http://www.pc.tu-clausthal.de/PI-Group/Johannsmann.htm">Diethelm
+Johannsmann</a>, TU Clausthal and <a
+ href="http://www.mpip-mainz.mpg.de/%7Eberg/">Steffen Berg</a>, MPI for
+Polymer Research, Germany)
+      </ul>
+      <p> Mathematics: </p>
+      <ul>
+        <li> Positivity properties of q-series (with <a
+ href="http://www.math.umn.edu/%7Estanton/">Dennis Stanton</a>,
+University of Minnesota, USA)</li>
+      </ul>
+      <p>Computer Science: </p>
+      <ul>
+        <li> Average-case analysis of algorithms with statistical
+mechanical methods</li>
+(with <a href="http://algo.inria.fr/flajolet/">Philippe Flajolet</a>,
+INRIA Rocquencourt and <a
+ href="http://users.info.unicaen.fr/%7Ebrigitte/index.html">Brigitte
+Vall&eacute;e</a>, Universit&eacute; de Caen, France)
+      </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</p>
+</body>
+</html>

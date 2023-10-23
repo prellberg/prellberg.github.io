@@ -1,0 +1,16 @@
+<p>Combinatorial Enumeration of Two-Dimensional Vesicles - a Review</p>
+
+<p>Thomas Prellberg, QMUL</p>
+
+<p>Abstract:</p>
+
+<p>I discuss two-dimensional lattice models of closed fluctuating membranes,
+or vesicles. The underlying mathematical model is that of self-avoiding
+polygons and their enumeration by perimeter and area.  By adding the
+constraint of partial directedness, one gets solvable models in the sense
+that an explicit expression for the generating function can be given in
+terms of alternating $q$-series. An asymptotic analysis leads to an
+explicit calculation of the scaling behaviour around the critical point in
+terms of the Airy function.
+</p>
+

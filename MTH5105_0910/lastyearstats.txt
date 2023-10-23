@@ -1,0 +1,8 @@
+comparison of number of courseworks submitted with exam performance:
+
+cwk   %A %pass
+  8   70   100
+6-7   33   100
+3-5   10    60
+0-2    0    40
+

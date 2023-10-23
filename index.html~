@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Thomas Prellberg's Web Page</title>
+<link REL="SHORTCUT ICON" HREF="passquare.jpg">
+<frameset rows="40,*">
+<frame name="top" scrolling="NO" noresize src="top.html">
+<frameset cols="210,*">
+<frame name="content" scrolling="NO" src="content.html">
+<frame name="main" scrolling="yes" src="main.html">
+</frameset>
+</frameset>
+<noframes>
+</head>
+</body>
+</noframes>
+</html>

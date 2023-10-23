@@ -1,0 +1,19 @@
+<html>
+<HEAD><TITLE> Thomas Prellberg's Web Page </TITLE></HEAD>
+<meta name="keywords" CONTENT="Thomas Prellberg"> 
+<meta name="description" CONTENT="Thomas Prellberg">
+</HEAD>
+<BODY TEXT="#FFFFFF" BGCOLOR="#000000" LINK="#FFFFFF" VLINK="#C0C0C0" BACKGROUND="space.jpg">
+<TABLE WIDTH=100%>
+<TD ALIGN="LEFT">
+<IMG SRC="updated.gif"> Oct 2, 2006
+</TD>
+<TD ALIGN="CENTER">
+<A HREF="http://www.maths.qmul.ac.uk/~tp/MAS115_0607" TARGET="main">MAS115: Calculus I</A>
+</TD>
+<TD ALIGN="RIGHT">
+<A HREF="http://www.bbc.co.uk/weather/5day.shtml?world=0008" target="main">London Weather</A>
+</TD>
+</TABLE>
+</BODY>
+</HTML>

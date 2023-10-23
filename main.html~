@@ -1,0 +1,119 @@
+<html>
+<HEAD><TITLE> Thomas Prellberg's Web Page </TITLE></HEAD>
+<meta name="keywords" CONTENT="Thomas Prellberg"> 
+<meta name="description" CONTENT="Thomas Prellberg">
+</HEAD>
+<BODY TEXT="#FFFFFF" BGCOLOR="#000000" LINK="#FFFFFF" VLINK="#C0C0C0" BACKGROUND="space.jpg">
+<CENTER><H2>Thomas Prellberg</H2></CENTER>
+<HR>
+<TABLE WIDTH=100%>
+<TD WIDTH="27%" ALIGN="TOP">
+<A HREF="http://www.maths.qmul.ac.uk/~tp/whoiswho.jpg" target="main">
+<IMG SRC="passport.jpg" NAME="my face" ALIGN="TOP" ALT="Apl-Prof Dr rer nat habil Thomas Prellberg, Dipl.-Phys, Dipl.-Math."></A>
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="67%">
+<H4>
+Welcome to my web pages!
+</H4>
+<p align="justify"> I am an academic in the School of Mathematical Sciences at Queen Mary, University of London, where I hold the position of Reader in Applied Mathematics. 
+I am interested in lattice statistical mechanics, combinatorics, dynamical systems, Monte Carlo algorithms, and soft condensed matter.
+I am affiliated with the Technical University Clausthal in Germany, where I hold the title of Professor. 
+I am also an Associate Investigator of the Centre of Excellence for Mathematics and Statistics of Complex Systems at the University of Melbourne in Australia.
+</p>
+</TD>
+<TD WIDTH="3%">
+</TD>
+</TABLE>
+<HR>
+<TABLE WIDTH=100%>
+<TD WIDTH="30%">
+<H4>Reader in Applied Mathematics</H4>
+</TD>
+<TD WIDTH="70%">
+<H4><A HREF="http://www.maths.qmul.ac.uk" target="_top">School of Mathematical Sciences</A>,
+<A HREF="http://www.qmul.ac.uk" target="_top">Queen Mary</A>, <A HREF="http://www.lon.ac.uk" target="_top">University of London</A></H4> 
+</TD>
+</TABLE>
+<TABLE WIDTH=100%>
+<TD WIDTH="30%">
+</TD>
+<TD WIDTH="70%">
+<TABLE WIDTH=100% ALIGN="CENTER">
+<TD WIDTH="60%"> 
+<B>Internet Email</B>
+<ADDRESS><A HREF="mailto:initial.lastname@qmul.ac.uk_please_fill_in_my_name">initial.lastname@qmul.ac.uk</A></ADDRESS>
+<B>Address</B> 
+<ADDRESS> 
+Mile End Road<BR> London E1 4NS<BR>United Kingdom<BR>
+</ADDRESS>
+</TD><TD WIDTH="40%">
+<B>Telephone</B>
+<ADDRESS>+44 20 7882 5490</ADDRESS>
+<B>Fax</B>
+<ADDRESS>+44 20 8981 9587</ADDRESS>
+<B>Secretary</B> 
+<ADDRESS>+44 20 7882 5440</ADDRESS>
+</TD>
+</TABLE>
+</TD>
+</TABLE>
+<HR>
+<TABLE WIDTH=100%>
+<TD WIDTH="30%">
+<H4>Professor (apl.)</H4>
+</TD>
+<TD WIDTH="70%">
+<H4><A HREF="http://www.pt.tu-clausthal.de" target="_top">Institute of Theoretical Physics</A>,
+<A HREF="http://www.tu-clausthal.de" target="_top">Technical University Clausthal</A></H4>
+</TD>
+</TABLE>
+<TABLE WIDTH=100%>
+<TD WIDTH="30%">
+</TD>
+<TD WIDTH="70%">
+<TABLE WIDTH=100% ALIGN="CENTER">
+<TD WIDTH="60%"> 
+<B>Address</B> 
+<ADDRESS> 
+Arnold-Sommerfeld Straﬂe 6<BR> D-38678 Clausthal-Zellerfeld<BR> Germany<BR>
+</ADDRESS>
+</TD><TD WIDTH="40%">
+<B>Secretary</B> 
+<ADDRESS>+49 5323 72 3013</ADDRESS>
+<B>Fax</B>
+<ADDRESS>+49 5323 72 3799</ADDRESS>
+</TD>
+</TABLE>
+</TABLE>
+<HR>
+<TABLE WIDTH=100%>
+<TD WIDTH="30%">
+<H4>Associate Investigator</H4>
+</TD>
+<TD WIDTH="70%">
+<H4><A HREF="http://www.complex.org.au" target="_top">Centre of Excellence for Mathematics and Statistics of Complex Systems</A>,
+<A HREF="http://www.unimelb.edu.au" target="_top">The University of Melbourne</A></H4>
+</TD>
+</TABLE>
+<TABLE WIDTH=100%>
+<TD WIDTH="30%">
+</TD>
+<TD WIDTH="70%">
+<TABLE WIDTH=100% ALIGN="CENTER">
+<TD WIDTH="60%"> 
+<B>Address</B> 
+<ADDRESS> 
+139 Barry Street, Carlton<BR> Melbourne, Vic 3010<BR> Australia<BR>
+</ADDRESS>
+</TD><TD WIDTH="40%">
+<B>Secretary</B> 
+<ADDRESS>+61 3 8344 1617</ADDRESS>
+<B>Fax</B>
+<ADDRESS>+61 3 9347 8165</ADDRESS>
+</TD>
+</TABLE>
+</TABLE>
+</BODY>
+</HTML>

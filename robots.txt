@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /alexandra.html
+Disallow: /james.html
+Disallow: /story.html

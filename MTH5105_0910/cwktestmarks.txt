@@ -1,0 +1,15 @@
+marks distribution (test and best SEVEN coursework marks):
+
+ 0- 9	 0
+10-19	 0
+20-29	 4
+30-39	 3
+40-49	12
+50-59	 7
+60-69	22
+70-79	12
+80-89	 4
+90-99	 1
+100	 0
+
+average: 59.5, median: 62.9

@@ -1,0 +1,143 @@
+Dear Sylvie,
+
+I just touched the computer to send you an email...
+
+> I would really appreciate if you can send me ASAP
+> the information on the functional equation and the PDSAWs.
+
+What I have done today (apart from teaching 5 hours) is to write up cleanly the
+things I know, and I looked at Heaps of Pieces again, but found that I cannot
+see the weak exceedances in the polyominoes resulting from the decomposition
+analogous to Penaud's.
+
+I'll first send you what I have so far, then read and digest your email.  I'll
+send you this stuff in LaTeX, maybe this saves us some typing.
+
+\documentclass{amsart}
+\newcommand{\Dfn}[1]{\emph{#1}}
+\begin{document}
+A \Dfn{bicoloured Motzkin path} is a path starting at the origin, taking
+north-east, south-east, east and coloured east steps, returning to the $x$-axis
+but never going below it.  The \Dfn{height} of a step is the $y$-coordinate of
+the point where it ends, and we allow a non-negative weight on every step as
+follows:
+\begin{itemize}
+\item[] south-east steps and east steps have weight at most as big as their
+  height, and
+\item[] north-east steps and coloured east steps have weight less than their
+  height.
+\end{itemize}
+Note that this implies that coloured east steps must have height greater than
+zero.  Such paths are also referred to as \lq histoires de Laguerre\rq.  An
+example of such a path is given in Figure~\ref{fig:Motzkin}.  For brevity, we
+will refer to weighted Motzkin paths always simply as \lq Motzkin paths\rq.
+
+We want to determine the generating function for Motzkin paths with $n$ steps,
+according to the number of (uncoloured) east and north-east steps, marked be
+$y$, and weight, marked by $q$.
+
+There is a simple bijection, due to Dominique Foata and Doron Zeilberger that
+maps permutations to weighted bicoloured Motzkin paths.  This bijection
+transforms the number of crossings of the permutation, as defined by Sylvie
+Corteel, into the total weight of the path.  Moreover, it transforms the number
+of weak exceedances into the number of east and north-east steps.
+
+\begin{itemize}
+\item collect the weighted Motzkin paths with the same underlying Motzkin path,
+  so we obtain Motzkin paths where
+  \begin{itemize}
+  \item[] south-east steps and east steps have weight $1+q+\dots+q^{h-1}$, and
+  \item[] north-east steps and coloured east steps have weight
+    $1+q+\dots+q^{h-2}$, if $h$ is the height of the step.
+  \end{itemize}
+
+\item transform the Motzkin paths into weighted Dyck paths of lenght $2n$:
+  (classic)
+
+  The number of weak exceedances corresponds to the number of south-east steps
+  at even height in the Dyck path.  The weight of a north-east step equals one,
+  the weight of a south-east step $1+q+\dots+q^{\lfloor\frac{h}{2}\rfloor}$,
+  where
+  $h$ is the height of the step.
+
+\item multiply the weight of each of the $n$ south-east steps by $1-q$, which
+  means that the weight of a south-east step is now
+  $1-q^{\lfloor\frac{h}{2}\rfloor}$.
+
+\item We factorise the Dyck paths as in Jean-Guy Penaud's proof.  This leads us
+  to the language ($n$ is north-east, $s$ south-east, $\bar s$ weighted
+  south-east)
+
+  \begin{align}
+    P&=n\bar s (1+P) + n Q \bar s (1+P) + n Q s (1+P)\\
+    Q&=n\bar s (1+Q) + n P \bar s (1+Q) + n P s (1+Q).
+  \end{align}
+
+  Therefrom we obtain the following pair of functional equations, where $t$
+  marks the length of the path:
+
+  \begin{align}\label{eq:system}
+    \frac{P(z)}{1+P(z)}&=yt\left((1+qz)Q(z)+qz\right)\\
+    \frac{Q(z)}{1+Q(z)}&=t\left((1+qz)P(qz)+qz\right).
+  \end{align}
+
+  $z$ is a catalytic variable, that is a multiplicative factor for the weight
+  of the paths.  Thus, we want to determine $P(-1)$.
+\end{itemize}
+
+We now have to solve \ref{eq:system}.  To this end, we eliminate $Q$, and then
+make the following Ansatz: set $P(z)=yt\frac{R(z)-1}{1+yt}$ and finally
+$R(z)=\frac{H(qz)}{H(z)}$.  This yields the following second order homogeneous
+linear ordinary $q$-differential equation:
+\begin{equation}
+y(1+qz) t^2 H(q^2 z)+((y+1)qz t-yt^2-1)H(qz)+(1+qz) H(z)=0  
+\end{equation}
+
+This can be solved with standard methods (is this true?) and yields
+
+\begin{verbatim}
+          [                       ]
+          | -t, -(t y)            |
+H[z]=  ph |           ; q, -(q z) |
+      2  1|      2                |
+          [   q t  y              ]
+\end{verbatim}
+
+\end{document}
+
+> PS: I decided to give a last try for the involution
+> and I think there is quite some hope.
+
+great!
+
+> Rather than mimicking penaud and do the decomposition
+> on the dyck paths, i did the decomposition directly
+> on the motzkin paths.
+
+yes, that sounds plausible.
+
+> When we divide by (1-q)^n, we get labelled bicolored motzkin paths
+> the weight of the steps starting at height i is
+> - 1 or -q^i for the south-east steps
+> - 1 or q^(i+1) for the north east steps
+> - 1 or -q^(i+1) and 1 or -q^i for the two kinds of east steps
+> 
+> Now we take a path like that and dissect it into two paths:
+> 1. A left factor of a bicolored Motzkin path of length n
+> that ends at height k
+> 2. A labelled bicolored Motzkin path of length k such that
+> the weight of the steps starting at height i is
+> - 1 or -q^i for the south-east steps
+> - 1 or -q^i for the north east steps (but i can not have
+> a north step, followed by a south step, both labelled by 1).
+> - -q^(i+1) and -q^i for the two kinds of east steps
+> 
+> The number of left factors of bicolored Motzkin paths of length n
+> that end at height k is {2n\choose n-k}-{2n\choose n-k-2}
+> 
+> If you sum on the weighted bicolored motzkin paths of length k defined in 2
+> then maple gives (-1)^k\sum_{i=0}^k q^{i(k+1-i)}
+> 
+> Of course we can put y in. The involution should be easier
+> to define on the paths of type 2.
+

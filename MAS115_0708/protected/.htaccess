@@ -1,0 +1,11 @@
+#AuthUserFile /home/network/tp/public_html/MAS115_0607/protected/.htpasswd
+AuthUserFile /home/network/tp/Calculus/slidespassword
+#AuthGroupFile /dev/null
+AuthName "Password Protected Area"
+AuthType Basic
+Require valid-user
+<Limit GET>
+require valid-user
+</LIMIT>
+
+

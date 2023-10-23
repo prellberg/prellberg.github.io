@@ -1,0 +1,55 @@
+<html>
+<HEAD><TITLE> Thomas Prellberg's Web Page </TITLE></HEAD>
+<meta name="keywords" CONTENT="Thomas Prellberg"> 
+<meta name="description" CONTENT="Thomas Prellberg">
+</HEAD>
+<BODY TEXT="#FFFFFF" BGCOLOR="#000000" LINK="#FFFFFF" VLINK="#C0C0C0" BACKGROUND="space.jpg">
+<H3>Downloads</H3> 
+<H4><A HREF="list.html">Publications</A></H4>
+<H4><A HREF="vita.pdf">Curriculum Vitae</A></H4>
+<H4>Selected Talks</H4>
+<UL>
+<LI>2006</LI>
+<UL>
+<LI>The Farey Fraction Spin Chain: Effects of an External Field <A HREF="talks/spinchainII.pdf">(pdf)</A></LI>
+<LI>Simulations of Polymer Collapse <A HREF="talks/siteweighted.pdf">(pdf)</A></LI>
+</UL>
+<LI>2005</LI>
+<UL>
+<LI>Combinatorial Enumeration of Two-Dimensional Vesicles <A HREF="talks/prellberg.pdf">(pdf)</A></LI>
+<LI>Four Ways of Counting Incidence Matrices <A HREF="talks/incidence.pdf">(pdf)</A></LI>
+<LI>Simulation of Polymers with a new Monte Carlo Algorithm <A HREF="talks/flatperm2.pdf">(pdf)</A></LI>
+</UL>
+<LI>2004</LI>
+<UL>
+<LI>Cluster Approximation for the Farey Fraction Spin Chain <A HREF="talks/spinchain.pdf">(pdf)</A></LI>
+<LI>A Flat Histogram Stochastic Growth Algorithm <A HREF="talks/flatperm.pdf">(pdf)</A></LI>
+</UL>
+<LI>2003</LI>
+<UL>
+<LI>Spectral Analysis of Transfer Operators associated with Intermittency <A HREF="talks/farey.pdf">(pdf)</A></LI>
+<LI>Monte Carlo Investigation of Lattice Models of Polymer Collapse in High Dimensions <A HREF="talks/collapse.pdf">(pdf)</A></LI>
+<LI>A Proof of the Monotonicity Conjecture by Friedman, Joichi, and Stanton <A HREF="talks/monotonicity.pdf">(pdf)</A></LI>
+</UL>
+<LI>2002</LI>
+<UL>
+<LI>On the Asymptotic Analysis of a Class of Linear Recurrences <A HREF="talks/recurrence.pdf">(pdf)</A></LI>
+</UL>
+<LI>2001</LI>
+<UL>
+<LI>Depinning in Driven Viscoelastic Media with Disorder: a Dynamical Phase Transition <A HREF="talks/depinning.ps">(ps)</A></LI>
+</UL>
+</UL>
+<H4>Theses</H4>
+<UL>
+<LI>Habilitation "Lattice Models of Interacting Polymers and Vesicles" <A HREF="habil.ps.gz">(ps)</A></LI>
+<LI>Dissertation "Maps of Intervals with Indifferent Fixed Points: Thermodynamic Formalism and Phase Transitions" <A HREF="diss.ps.gz">(ps)</A></LI>
+</UL>
+<H4>Selected Students' Theses</H4>
+<UL>
+<LI>Florian Grossmann: Diploma Thesis "Non-Standard Period Doubling in a Piecewise Continuous Dynamical System" <A HREF="grossmann.ps">(ps)</A></LI>
+<LI>Peter Dodds: Masters Thesis "On the Thermodynamic Formalism for the Farey Map" <A HREF="dodds1.ps">(ps)</A></LI>
+<LI>Peter Dodds: Honours Thesis "Multifractals, Thermodynamic Formalism, and Intermittency" <A HREF="dodds2.ps">(ps)</A></LI>
+</UL>
+</BODY>
+</HTML>

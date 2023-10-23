@@ -1,0 +1,283 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+  <title>MAS115</title>
+  <meta name="description"
+ content="Course information for MAS115, Calculus I, at Queen Mary, University of London">
+</head>
+<body background="opaq.jpg">
+<h1 align="center"><a href="http://www.coursecompass.com" target="_top"><img
+ src="banner_thomas_calc.jpg" alt=" "></a></h1>
+<table width="99%">
+  <tbody>
+    <tr>
+      <td>
+      <h2>MAS115</h2>
+      </td>
+      <td align="right">
+      <h2>Calculus I</h2>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Lecturer: <a href="http://www.maths.qmw.ac.uk/%7Etp"
+ target="_top">
+Thomas Prellberg</a> </b></td>
+      <td align="right"><b>Semester 1, 2007/2008</b></td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<b><b></b></b>
+<p></p>
+<div style="text-align: justify;"><span style="font-weight: bold;"></span><span
+ style="font-weight: bold;">Important</span><br>
+<span style="font-weight: bold;"></span>
+<ul>
+  <li>If you have trouble with Coursecompass or MyMathLab (i.e. for all
+    <b>technical</b> issues):<br>
+Please email the course administrator <a
+ href="mailto:hb@maths.qmul.ac.uk">Henrik B&auml;&auml;rnhielm</a> <br>
+  </li>
+  <li>If you have trouble with Calculus I material (i.e. for all <b>mathematical</b>
+issues):<br>
+Please talk to the lecturer <a href="http://www.maths.qmul.ac.uk/%7Etp"
+ target="_top">Thomas Prellberg</a> <br>
+  </li>
+</ul>
+<span style="font-weight: bold;">News</span><br>
+<span style="font-weight: bold;"></span>
+<ul>
+  <li><span style="font-style: italic;">Check this place for important
+announcements</span> <br>
+  </li>
+  <li><span style="font-weight: bold;"></span>Midterm test <a
+ href="testresults.txt">statistics</a><br>
+  <li>There will be a revision lecture in Mason Lecture Theatre on <span
+ style="font-weight: bold;">Monday, November 5</span>, at 1pm.</li>
+  <li>There will be five mid-term test sessions on <span
+ style="font-weight: bold;">Thursday, November
+8</span>. Individual allocation to
+sessions can be found <a
+ href="http://www.maths.qmul.ac.uk/%7Ehb/MAS115/test_allocation.pdf">here</a>,
+and the sessions are as follows:<br>
+  </li>
+  <ul>
+    <li>Session 1: LRC2 1:00-2:00 <br>
+    </li>
+    <li>Session 2: LRC2 2:30-3:30</li>
+    <li>Session 3: LRC2 4:00-5:00</li>
+    <li>Session 4: FB115a 2:00-3:00</li>
+    <li>Session 5: FB115a 3:30-4:30</li>
+  </ul>
+  <li>Apologies for the time-change related error on November 1. The
+deadline for Coursework 5 and Coursework 6 will be 48 hours later than
+usual, i.e. Saturday midnight.<br>
+  </li>
+  <li>The mid-term test will be on <b>Thursday, November 8</b>, and
+the end-of-term test will be on <b>Friday, December 14</b>, which is
+the last day of Semester A. Both tests will use coursecompass and take
+place in the computer labs. <b>The tests will be closed book and
+calculators will not be permitted.</b><br>
+  </li>
+  <li>Remote Desktop Access is working, and the college network
+computers finally support it. <br>
+  </li>
+  <li>The exercise class allocation is <a
+ href="http://www.maths.qmul.ac.uk/%7Ehb/MAS115/allocation.pdf">here</a>,
+along with <a
+ href="http://www.maths.qmul.ac.uk/%7Ehb/MAS115/classassign.pdf">instructions</a>.<br>
+  </li>
+  <ul>
+  </ul>
+</ul>
+<span style="font-weight: bold;">Lecture times</span><br>
+</div>
+<span style="font-weight: bold;"></span>
+<ul>
+  <li>Tuesday 9-10, Friday 1-2 and 4-5
+(all lectures in Mason Lecture Theatre)</li>
+</ul>
+<span style="font-weight: bold;">Office hours<br>
+</span>
+<ul>
+  <li>Tuesday 10:30-11:30, Friday 2:30-3:30
+(Maths 113)</li>
+</ul>
+<span style="font-weight: bold;"><b><b>Coursework</b>
+</b></span>
+<ul>
+  <li> Coursework will be done <a href="http://www.coursecompass.com">online</a>,
+please register with your access code for course id "prellberg97476"<br>
+  </li>
+  <li> For details of using MyMathLab on the college network (and
+elsewhere), see the following <a href="mymathlab.pdf">guide</a></li>
+  <li><span style="font-weight: bold;">The deadline for coursework is
+every</span> <big><span style="font-weight: bold;">Thursday midnight</span></big><span
+ style="font-weight: bold;">, and electronically enforced!<br>
+    </span></li>
+</ul>
+<span style="font-weight: bold;">Exercise classes (starting Wednesday,
+October 3)<br>
+</span>
+<ul>
+  <li>The exercise class allocation is available <a
+ href="http://www.maths.qmul.ac.uk/%7Ehb/MAS115/allocation.pdf">here</a>,
+instructions see <a
+ href="http://www.maths.qmul.ac.uk/%7Ehb/MAS115/classassign.pdf">here</a>.<br>
+  </li>
+  <li>Wednesday 10-11: Queens EB2 (Lidsey/Rudd), Queens FB1
+(Carr/Kusuma), Maths 103 (Murray/Kazanidis), CS446
+(Cresswell/Camporeale), PUG1 (Verner/Islam)</li>
+  <li>Wednesday 11-12: PP2 (Carr/Rudd), Eng 216 (Camporeale/Kusuma),
+PUG1 (Lidsey/Islam), MAS103 (Murray/Kazanidis)</li>
+  <li><a href="exerciseclass1.pdf">Problem sheet 1</a> (for exercise
+class on October 3), <a href="exerciseclass1solutions.pdf">sample
+solution</a><br>
+  </li>
+  <li><a href="exerciseclass2.pdf">Problem sheet 2</a> (for exercise
+class on October 10), <a href="exerciseclass2solutions.pdf">sample
+solution</a><br>
+  </li>
+  <li><a href="exerciseclass3.pdf">Problem sheet 3</a> (for exercise
+class on October 17), <a href="exerciseclass3solutions.pdf">sample
+solution</a><br>
+  </li>
+  <li><a href="exerciseclass4.pdf">Problem sheet 4</a> (for exercise
+class on October 24), <a href="exerciseclass4solutions.pdf">sample
+solution</a><br>
+  </li>
+  <li><a href="exerciseclass5.pdf">Problem sheet 5</a> (for exercise
+class on October 31), <a href="exerciseclass5solutions.pdf">sample
+solution</a><br>
+  </li>
+Not yet available:<br>
+  <li><a href="exerciseclass6.pdf">Problem sheet 6</a> (for exercise
+class on November 14), <a href="exerciseclass6solutions.pdf">sample
+solution</a><br>
+  </li>
+  <li><a href="exerciseclass7.pdf">Problem sheet 7</a> (for exercise
+class on November 21), <a href="exerciseclass7solutions.pdf">sample
+solution</a><br>
+  </li>
+  <li><a href="exerciseclass8.pdf">Problem sheet 8</a> (for exercise
+class on November 28), <a href="exerciseclass8solutions.pdf">sample
+solution</a><br>
+  </li>
+  <li><a href="exerciseclass9.pdf">Problem sheet 9</a> (for exercise
+class on December 5), <a href="exerciseclass9solutions.pdf">sample
+solution</a><br>
+  </li>
+  <li><a href="exerciseclass10.pdf">Problem sheet 10</a> (for exercise
+class on December 12), <a href="exerciseclass10solutions.pdf">sample
+solution</a><br>
+  </li>
+</ul>
+<p></p>
+<ul>
+</ul>
+<p>
+</p>
+<p><span style="font-weight: bold;">Course Administrator</span><br>
+</p>
+<ul>
+  <li><a href="http://www.maths.qmul.ac.uk/%7Ehb/">Henrik
+B&auml;&auml;rnhielm</a>, email: <a href="mailto:hb@maths.qmul.ac.uk">hb@maths.qmul.ac.uk</a></li>
+  <li>Room and Office hours: TBA<br>
+  </li>
+</ul>
+<p><b><b>Course description</b></b>
+</p>
+<ul>
+  <li><a
+ href="http://www.qmul.ac.uk/courses/coursedirectory/index.php?dept_id=20&amp;module_id=1200">Course
+description</a> from the College course directory </li>
+  <li><a
+ href="http://www.maths.qmul.ac.uk/undergraduate/modules/MAS115.html">Course
+description</a> from the Maths UG Handbook</li>
+</ul>
+<p><b><b>Course information</b></b></p>
+<p></p>
+<ul>
+  <li><a href="syllabus.pdf">Course
+syllabus</a> </li>
+  <li><a href="objectives.pdf">Course
+objectives</a></li>
+</ul>
+<p></p>
+<b><b>Book<br>
+</b></b>
+<ul>
+  <li><span style="font-style: italic;">Thomas' Calculus (11th
+international edition, media upgrade)</span>, Pearson Education, 2008,
+supplemented by
+MyMathLab</li>
+  <li>Book and access code are mandatory and will be sold as a package
+for &pound;30.00 at the start of term<br>
+  </li>
+</ul>
+<b><b>Supplementary material (password protected, userid/password
+available in lecture)<br>
+</b></b>
+<div style="margin-left: 40px;"><b><b><span style="font-weight: bold;"><span
+ style="font-weight: bold;"></span></span></b></b>(note that slides
+will only make sense in connection with
+the power point slides available on www.coursecompass.com) </div>
+<ul>
+  <li><a href="protected/week1.pdf">Slides week 1</a><br>
+  </li>
+  <li><a href="protected/week2.pdf">Slides week 2</a><br>
+  </li>
+  <li><a href="protected/week3.pdf">Slides week 3</a><br>
+  </li>
+  <li><a href="protected/week4.pdf">Slides week 4</a><br>
+  </li>
+  <li><a href="protected/week5.pdf">Slides week 5</a><br>
+  </li>
+  <li><a href="protected/week6.pdf">Slides week 6</a><br>
+  </li>
+  <li>Week 7: Revision week<br>
+  </li>
+Not yet available:
+  <li><a href="protected/week8.pdf">Slides week 8</a><br>
+  </li>
+  <li><a href="protected/week9.pdf">Slides week 9</a><br>
+  </li>
+  <li><a href="protected/week10.pdf">Slides week 10</a><br>
+  </li>
+  <li><a href="protected/week11.pdf">Slides week 11</a><br>
+  </li>
+  <li><a href="protected/week12.pdf">Slides week 12</a><br>
+  </li>
+</ul>
+<b><b>Tests</b>
+</b>
+<ul>
+  <li>There will be two tests (in Week 7 and Week 12).</li>
+</ul>
+<div style="text-align: justify;">
+</div>
+<b><b><b>Exam<br>
+</b></b></b>
+<ul>
+  <li>A sample exam paper is available <a href="MAS115sample.pdf">here</a>,
+and the official exams from last year are <a href="MAS115exam0607.pdf">here</a>
+and <a href="MAS115late0607.pdf">here</a>.<br>
+  </li>
+  <li>Previous Calculus I and II Exams (for <a
+ href="http://www.maths.qmul.ac.uk/%7Ereza/MAS101/">MAS101</a> and <a
+ href="http://www.maths.qmul.ac.uk/%7Ebjc/MAS102/">MAS102</a>) can be
+found <a href="https://digital.library.qmul.ac.uk/exams/maths.htm">here</a></li>
+</ul>
+<span style="font-weight: bold;">Calculus II material</span><br>
+<ul>
+  <li><span style="font-weight: bold;"></span>Webpage for <a
+ href="http://www.maths.qmul.ac.uk/%7Ebjc/MAS125">Calculus II</a>
+(maintained by Professor Bernard Carr)<br>
+  </li>
+</ul>
+<p align="right"><b><b><a href="mailto:initial.lastname@qmul.ac.uk">Thomas
+Prellberg</a><br>
+September 2007
+</b></b></p>
+</body>
+</html>

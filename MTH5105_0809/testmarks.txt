@@ -1,0 +1,25 @@
+marks distribution:
+
+ 0- 9	0
+10-19	2
+20-29	0
+30-39	6
+40-49	5
+50-59	4
+60-69	6
+70-79	4
+80-89	3
+90-99	3
+100	2
+
+average: 57, median: 60
+
+correlation with courseworks:
+
+number 		average
+submitted	marks on test
+
+0-2		41
+3		64
+4		71
+

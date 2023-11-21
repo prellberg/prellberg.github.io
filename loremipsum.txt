@@ -2,16 +2,16 @@
 
 <html  dir="ltr" lang="en" xml:lang="en">
 <head>
-    <title>Notice | MyQMUL</title>
+    <title>Log in to the site | MyQMUL</title>
     <link rel="shortcut icon" href="//qmplus.qmul.ac.uk/pluginfile.php/1/theme_catawesome/favicon/1699998465/favicon.ico" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="moodle, Notice | MyQMUL" />
+<meta name="keywords" content="moodle, Log in to the site | MyQMUL" />
 <link rel="stylesheet" type="text/css" href="https://qmplus.qmul.ac.uk/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://qmplus.qmul.ac.uk/theme/styles.php/catawesome/1699998465_1698787882/all" />
 <script>
 //<![CDATA[
 var M = {}; M.yui = {};
 M.pageloadstarttime = new Date();
-M.cfg = {"wwwroot":"https:\/\/qmplus.qmul.ac.uk","homeurl":{},"sesskey":"8amqCodMFu","sessiontimeout":"7200","sessiontimeoutwarning":1200,"themerev":"1699998465","slasharguments":1,"theme":"catawesome","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1699996342","admin":"admin","svgicons":true,"usertimezone":"Europe\/London","courseId":1,"courseContextId":2,"contextid":1,"contextInstanceId":0,"langrev":1699996342,"templaterev":"1699996342"};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+M.cfg = {"wwwroot":"https:\/\/qmplus.qmul.ac.uk","homeurl":{},"sesskey":"p68c7dq5Gk","sessiontimeout":"7200","sessiontimeoutwarning":1200,"themerev":"1699998465","slasharguments":1,"theme":"catawesome","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1699996342","admin":"admin","svgicons":true,"usertimezone":"Europe\/London","courseId":1,"courseContextId":2,"contextid":1,"contextInstanceId":0,"langrev":1699996342,"templaterev":"1699996342"};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
 var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
 if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
 YUI_config = {"debug":false,"base":"https:\/\/qmplus.qmul.ac.uk\/lib\/yuilib\/3.17.2\/","comboBase":"https:\/\/qmplus.qmul.ac.uk\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/qmplus.qmul.ac.uk\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/qmplus.qmul.ac.uk\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/qmplus.qmul.ac.uk\/theme\/yui_combo.php?m\/1699996342\/","combine":true,"comboBase":"https:\/\/qmplus.qmul.ac.uk\/theme\/yui_combo.php?","ext":false,"root":"m\/1699996342\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification-dialogue","json-parse","widget-position","widget-position-align","event-outside","cache-base"]},"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core-formchangechecker":{"requires":["base","event-focus","moodle-core-event"]},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-languninstallconfirm":{"requires":["base","node","moodle-core-notification-confirm","moodle-core-notification-alert"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-confirmcancel":{"requires":["node","node-event-simulate","moodle-core-notification-confirm"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-form-passwordunmask":{"requires":[]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-mod_aspirelists-inline_display":{"requires":["base","node","event","event-delegate"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_attendance-groupfilter":{"requires":["base","node"]},"moodle-mod_checklist-linkselect":{"requires":["node","event-valuechange"]},"moodle-mod_hsuforum-article":{"requires":["base","node","event","router","core_rating","querystring","moodle-mod_hsuforum-io","moodle-mod_hsuforum-livelog"]},"moodle-mod_hsuforum-livelog":{"requires":["widget"]},"moodle-mod_hsuforum-io":{"requires":["base","io-base","io-form","io-upload-iframe","json-parse"]},"moodle-mod_oublog-tagselector":{"requires":["base","node","autocomplete","autocomplete-filters","autocomplete-highlighters"]},"moodle-mod_oublog-savecheck":{"requires":["base","node","io","panel","moodle-core-notification-alert"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_scheduler-saveseen":{"requires":["base","node","event"]},"moodle-mod_scheduler-studentlist":{"requires":["base","node","event","io"]},"moodle-mod_scheduler-delselected":{"requires":["base","node","event"]},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-block_xp-filters":{"requires":["base","node","moodle-core-dragdrop","moodle-core-notification-confirm","moodle-block_xp-rulepicker"]},"moodle-block_xp-rulepicker":{"requires":["base","node","handlebars","moodle-core-notification-dialogue"]},"moodle-block_xp-notification":{"requires":["base","node","handlebars","button-plugin","moodle-core-notification-dialogue"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-filter_mathjaxloader-loader":{"requires":["moodle-core-event"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","node-event-simulate","yui-throttle","moodle-core-notification-dialogue","moodle-core-notification-confirm","moodle-editor_atto-rangy","handlebars","timers","querystring-stringify"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-qbank_editquestion-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-tool_capability-search":{"requires":["base","node"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-tool_monitor-dropdown":{"requires":["base","event","node"]},"moodle-local_kaltura-ltitinymcepanel":{"requires":["base","node","panel","node-event-simulate"]},"moodle-local_kaltura-ltipanel":{"requires":["base","node","panel","node-event-simulate"]},"moodle-local_kaltura-lticontainer":{"requires":["base","node"]},"moodle-local_kaltura-ltiservice":{"requires":["base","node","node-event-simulate"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-alert","moodle-core-notification-warning","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_chemistry-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_computing-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_echo360attoplugin-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_embedquestion-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emojipicker-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_fontfamily-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_fullscreen-button":{"requires":["event-resize","moodle-editor_atto-plugin"]},"moodle-atto_h5p-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_html-codemirror":{"requires":["moodle-atto_html-codemirror-skin"]},"moodle-atto_html-button":{"requires":["promise","moodle-editor_atto-plugin","moodle-atto_html-beautify","moodle-atto_html-codemirror","event-valuechange"]},"moodle-atto_html-beautify":{},"moodle-atto_htmlplus-codemirror":{"requires":["moodle-atto_htmlplus-codemirror-skin"]},"moodle-atto_htmlplus-button":{"requires":["moodle-editor_atto-plugin","moodle-atto_htmlplus-beautify","moodle-atto_htmlplus-codemirror","event-valuechange"]},"moodle-atto_htmlplus-beautify":{},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_kalturamedia-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin","moodle-form-shortforms"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_recordrtc-recording":{"requires":["moodle-atto_recordrtc-button"]},"moodle-atto_recordrtc-button":{"requires":["moodle-editor_atto-plugin","moodle-atto_recordrtc-recording"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_snippet-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]}}},"gallery":{"name":"gallery","base":"https:\/\/qmplus.qmul.ac.uk\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/qmplus.qmul.ac.uk\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1699996342\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/qmplus.qmul.ac.uk\/lib\/javascript.php\/1699996342\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker","moodle-core-notification-dialogue"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/qmplus.qmul.ac.uk\/lib\/javascript.php\/1699996342\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]},"mathjax":{"name":"mathjax","fullpath":"https:\/\/cdn.jsdelivr.net\/npm\/mathjax@2.7.9\/MathJax.js?delayStartupUntil=configured"}}};
@@ -62,18 +62,14 @@ M.yui.loader = {modules: {}};
   })();
 </script>
 <!-- End Matomo Code -->
-
+<meta name="robots" content="noindex" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,700;1,500;1,700&family=Source+Sans+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
 </head>
 
-<body  id="page-pluginfile" class="format-site  dir-ltr lang-en yui-skin-sam yui3-skin-sam qmplus-qmul-ac-uk pagelayout-base course-1 context-1 uses-drawers drawer-open-left hamburger-left custom-header" >
+<body  id="page-login-index" class="format-site  path-login dir-ltr lang-en yui-skin-sam yui3-skin-sam qmplus-qmul-ac-uk pagelayout-login course-1 context-1 notloggedin catawesome-login" >
 
-<div class="toast-wrapper mx-auto py-0 fixed-top" role="status" aria-live="polite"></div>
-
-<div id="page-wrapper" class="d-print-block">
-
-    <div>
+<div>
     <a class="sr-only sr-only-focusable" href="#maincontent">Skip to main content</a>
 </div><script src="https://qmplus.qmul.ac.uk/lib/javascript.php/1699996342/lib/polyfills/polyfill.js"></script>
 <script src="https://qmplus.qmul.ac.uk/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js"></script><script src="https://qmplus.qmul.ac.uk/theme/jquery.php/core/jquery-3.6.1.min.js"></script>
@@ -87,205 +83,126 @@ document.body.className += ' jsenabled';
 
 <!-- Queen Mary, University of London -->
 
-    <nav class="fixed-top navbar navbar-expand moodle-has-zindex" aria-label="Site navigation">
-        <div data-region="drawer-toggle" class="drawer-toggle hamburger-left">
-            <button aria-expanded="true" aria-controls="nav-drawer" type="button" class="navbar-toggler aabtn d-block" data-action="toggle-drawer" data-side="left" data-preference="drawer-open-nav"><i class="icon fa fa-bars fa-fw "   ></i><span class="sr-only">Side panel</span></button>
-        </div>
-    
-        <a href="https://qmplus.qmul.ac.uk" class="navbar-brand d-flex align-items-center m-0 p-0 aabtn has-logo 
-            ">
-            <span class="logo">
-                <img src="//qmplus.qmul.ac.uk/pluginfile.php/1/theme_catawesome/logo/1699998465/qm-logo-white.svg" alt="MyQMUL">
-            </span>
-    
-        </a>
-    
-    
-        <ul class="navbar-nav d-none d-md-flex">
-            <!-- my_courses -->
-            
-            <li class="primary-navigation">
-                <nav class="moremenu navigation">
-                    <ul id="moremenu-655d3c4b9d7fe-navbar-nav" role="menubar" class="nav more-nav navbar-nav">
-                                <li data-key="home" class="nav-item" role="none" data-forceintomoremenu="false">
-                                            <a role="menuitem" class="nav-link active "
-                                                href="https://qmplus.qmul.ac.uk/"
-                                                
-                                                aria-current="true"
-                                                
-                                            >
-                                                Home
-                                            </a>
-                                </li>
-                                <li data-key="" class="nav-item" role="none" data-forceintomoremenu="false">
-                                            <a role="menuitem" class="nav-link  "
-                                                href="https://qmplus.qmul.ac.uk/course/"
-                                                
-                                                
-                                                tabindex="-1"
-                                            >
-                                                All Modules
-                                            </a>
-                                </li>
-                                <li class="dropdown nav-item" role="none" data-forceintomoremenu="false">
-                                    <a class="dropdown-toggle nav-link  " id="drop-down-655d3c4b9d775" role="menuitem" data-toggle="dropdown"
-                                        aria-haspopup="true" aria-expanded="false" href="#" aria-controls="drop-down-menu-655d3c4b9d775"
-                                        
-                                        
-                                        tabindex="-1"
-                                    >
-                                        Help
-                                    </a>
-                                    <div class="dropdown-menu" role="menu" id="drop-down-menu-655d3c4b9d775" aria-labelledby="drop-down-655d3c4b9d775">
-                                                    <a class="dropdown-item" role="menuitem" href="http://its.qmul.ac.uk"  tabindex="-1"
-                                                        
-                                                    >
-                                                        Raise a Ticket
-                                                    </a>
-                                                    <a class="dropdown-item" role="menuitem" href="https://elearning.qmul.ac.uk/learning-applications/qmplus/"  tabindex="-1"
-                                                        
-                                                    >
-                                                        User Guides
-                                                    </a>
-                                    </div>
-                                </li>
-                        <li role="none" class="nav-item dropdown dropdownmoremenu d-none" data-region="morebutton">
-                            <a class="dropdown-toggle nav-link " href="#" id="moremenu-dropdown-655d3c4b9d7fe" role="menuitem" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="-1">
-                                More
-                            </a>
-                            <ul class="dropdown-menu dropdown-menu-left" data-region="moredropdown" aria-labelledby="moremenu-dropdown-655d3c4b9d7fe" role="menu">
-                            </ul>
-                        </li>
-                    </ul>
-                </nav>
-            </li>
-        </ul>
-    
-        <div id="usernavigation" class="navbar-nav ml-auto">
-            <div id="searchinput-navbar-655d3c4b9f27b655d3c4b9e1fa2" class="simplesearchform">
-    <div class="collapse" id="searchform-navbar">
-        <form autocomplete="off" action="https://qmplus.qmul.ac.uk/search/index.php" method="get" accept-charset="utf-8" class="mform form-inline searchform-navbar">
-                <input type="hidden" name="context" value="1">
-            <div class="input-group">
-                <label for="searchinput-655d3c4b9f27b655d3c4b9e1fa2">
-                    <span class="sr-only">Search</span>
-                </label>
-                    <input type="text"
-                       id="searchinput-655d3c4b9f27b655d3c4b9e1fa2"
-                       class="form-control withclear"
-                       placeholder="Search"
-                       aria-label="Search"
-                       name="q"
-                       data-region="input"
-                       autocomplete="off"
-                    >
-                    <a class="btn btn-close"
-                        data-action="closesearch"
-                        data-toggle="collapse"
-                        href="#searchform-navbar"
-                        role="button"
-                    >
-                        <i class="icon fa fa-times fa-fw "   ></i>
-                        <span class="sr-only">Close</span>
-                    </a>
-                <div class="input-group-append">
-                    <button type="submit" class="btn btn-submit" data-action="submit">
-                        <i class="icon fa fa-search fa-fw "   ></i>
-                        <span class="sr-only">Search</span>
-                    </button>
-                </div>
-            </div>
-        </form>
+<div id="background_carousel">
+    <div id="lp_carousel" class="carousel slide "
+      data-ride="carousel" data-interval="5000">
+      <div class="carousel-inner">
+              <div class="carousel-item item active" style="background-image: url(https://qmplus.qmul.ac.uk/pluginfile.php/1/theme_catawesome/slideimages/0/38960772040_2a91290de6_o.jpg);"></div>
+              <div class="carousel-item item" style="background-image: url(https://qmplus.qmul.ac.uk/pluginfile.php/1/theme_catawesome/slideimages/0/43853995432_5a5fac6801_k.jpg);"></div>
+              <div class="carousel-item item" style="background-image: url(https://qmplus.qmul.ac.uk/pluginfile.php/1/theme_catawesome/slideimages/0/Who-we-are-image.jpg);"></div>
+      </div>
     </div>
-    <a
-        class="btn btn-open rounded-0 nav-link"
-        data-toggle="collapse"
-        data-action="opensearch"
-        href="#searchform-navbar"
-        role="button"
-        aria-expanded="false"
-        aria-controls="searchform-navbar"
-        title="Toggle search input"
-    >
-        <i class="icon fa fa-search fa-fw "   ></i>
-        <span class="sr-only">Toggle search input</span>
-    </a>
 </div>
-            
-            <div class="d-flex align-items-stretch usermenu-container" data-region="usermenu">
-                        <div class="usermenu">
-                                <span class="login pl-2">
-                                        You are currently using guest access
-                                        <div class="divider border-left h-75 align-self-center mx-2"></div>
-                                        <a href="https://qmplus.qmul.ac.uk/login/index.php">Log in</a>
-                                </span>
-                        </div>
-            </div>
-            
-        </div>
-    </nav>
-    <div id="page" data-region="mainpage" data-usertour="scroller" class="drawers   drag-container">
-        <div id="topofscroll" class="main-inner">
-            <div class="drawer-toggles d-flex">
-            </div>
-            <header id="page-header" class="header-maxwidth d-print-none">
-    <div class="w-100">
-        <div class="d-flex flex-wrap">
-            <div id="page-navbar">
-                <nav aria-label="Navigation bar">
-    <ol class="breadcrumb"></ol>
-</nav>
-            </div>
-            <div class="ml-auto d-flex">
-                
-            </div>
-            <div id="course-header">
-                
-            </div>
-        </div>
-        <div class="d-flex align-items-center">
-                    <div class="mr-auto">
-                        <div class="page-context-header"><div class="page-header-headings"><h1 class="h2"></h1></div></div>
-                    </div>
-            <div class="header-actions-container ml-auto" data-region="header-actions-container">
-            </div>
-        </div>
+
+
+<div id="page" class="container-fluid mt-0">
+    
+    <div id="page-content" class="row">
+        <div id="region-main-box" class="col-12">
+            <section id="region-main" class="col-12">
+                <span class="notifications" id="user-notifications"></span>
+                <div role="main"><span id="maincontent"></span><div class="row justify-content-center logo">
+        <img src="//qmplus.qmul.ac.uk/pluginfile.php/1/theme_catawesome/logologin/1699998465/qm-logo-white.svg" title="QMplus - The Online Learning Environment of Queen Mary University of London" alt="QMplus - The Online Learning Environment of Queen Mary University of London"/>
     </div>
-</header>
+
+<div class="row justify-content-center my-4">
+    <div class="col-md-12 guest">
+        <div class="card loginpanel">
+            <div class="card-block">
+
+                <div class="row m-a-0">
+                    <div class="col-lg-6 instructions">
+                        <h1>Log in</h1>
+
+                            <p>Please login using your Queen Mary (IMAP/Office 365) username and password.</p><p><a href="/auth/saml2/login.php" class="login">Login</a></p><p><b>Useful Links:</b></p><ul><li><a href="https://elearning.qmul.ac.uk/learning-applications/qmplus/getting-around/i-cant-login-what-do-i-do-3/" target="_blank" rel="noreferrer noopener">Can't log into QMplus?</a></li><li><a href="https://www.its.qmul.ac.uk/support/self-help/self-service-password-reset/" target="_blank" rel="noreferrer noopener">Self Service Password Reset (SSPR)</a></li><li><a title="QMplus Help and Support" href="/course/view.php?id=4983" target="_blank" rel="noreferrer noopener">QMplus Help and Support</a></li><li><a title="Raise a support ticket with IT Helpdesk" href="https://helpdesk.qmul.ac.uk/" target="_blank" rel="noreferrer noopener">Raise a support ticket with IT Helpdesk</a></li></ul>
 
 
+                            <h3 class="mt-4 idp">Log in using your account on:</h3>
+                            <div class="potentialidplist" class="m-t-1">
+                                    <div class="potentialidp">
+                                        <a href="https://qmplus.qmul.ac.uk/auth/saml2/login.php?wants&idp=4eb950c6f0e1110dc8e14b5cf41532d7&passive=off" title="Login via SAML2" class="btn btn-secondary">
+                                                <img src="https://qmplus.qmul.ac.uk/theme/image.php/catawesome/core/1699998465/i/user" alt="" width="24" height="24"/>
+                                            Login via SAML2
+                                        </a>
+                                    </div>
+                            </div>
+                    </div>
 
-            <div id="page-content" class="pb-6 d-print-block">
-                <div id="region-main-box">
-                    <section id="region-main" aria-label="Content">
+                    <div class="col-lg-6 form">
+                        <form action="https://qmplus.qmul.ac.uk/login/index.php" method="post" id="login">
+                            <input id="anchor" type="hidden" name="anchor" value="">
+                            <script>document.getElementById('anchor').value = location.hash;</script>
 
-                        <span class="notifications" id="user-notifications"></span>
-                        <div role="main"><span id="maincontent"></span><div id="notice" class="box py-3 generalbox">This course is currently unavailable to students</div><div class="continuebutton">
-    <form method="get" action="https://qmplus.qmul.ac.uk/" >
-        <button type="submit" class="btn btn-primary"
-            id="single_button655d3c4b9e1fa4"
-            
-            
-            >Continue</button>
-    </form>
-</div></div>
+                            <h2 class="welcome">Already have an account?</h2>
+
+                            <label for="username" class="sr-only">
+                                    Username
+                            </label>
+
+                            <input type="hidden" name="logintoken" value="nadsyHcj9KxkfLjCGCdkSu1L2cjf51zO" />
+                            <div class="input-group input-group-username">
+                                <span class="input-group-addon"><i class="fa fa-user-circle"></i></span>
+                                <input type="text" name="username" id="username"
+                                    class="form-control"
+                                    value=""
+                                    placeholder="Username">
+                            </div>
+
+                            <label for="password" class="sr-only">Password</label>
+                            <div class="input-group input-group-password">
+                                <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+                                <input type="password" name="password" id="password" value=""
+                                    class="form-control"
+                                    placeholder="Password">
+                            </div>
+
+
+                            <button type="submit" class="btn btn-primary btn-block" id="loginbtn">Log in</button>
+                        </form>
+
+                        <div class="forgetpass mt-1">
+                            <p><a href="https://qmplus.qmul.ac.uk/login/forgot_password.php">This login box is for non-standard QMplus accounts, such as guest accounts.</a></p>
+                        </div>
+
+                        <div class="loginguest mt-4">
+                                <div class="login-divider"></div>
+                                <h3 class="login-guest">Some courses may allow guest access</h3>
+                                <form action="https://qmplus.qmul.ac.uk/login/index.php" method="post" id="guestlogin">
+                                    <input type="hidden" name="logintoken" value="nadsyHcj9KxkfLjCGCdkSu1L2cjf51zO">
+                                    <input type="hidden" name="username" value="guest" />
+                                    <input type="hidden" name="password" value="guest" />
+                                    <button class="btn btn-secondary mt-2" type="submit" id="loginguestbtn">Access as a guest</button>
+                                </form>
+                        </div>
                         
-                        
-                    </section>
+                        <div class="login-divider"></div>
+                        <div class="d-flex align-items-center justify-content-center mt-4">
+                            <button type="button" class="btn btn-secondary"  data-modal="alert" data-modal-title-str='["cookiesenabled", "core"]'  data-modal-content-str='["cookiesenabled_help_html", "core"]'>Cookies notice</button>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-        <footer id="page-footer" data-region="mainpage" class="bg-inverse">
-            <div class="container-fluid">
-                <div class="footer-lists row">
-                    <div class="col-sm-12 col-md-6 col-lg-3">
-                        <h4 class="title">Student Life</h4>
-                        <div class="list"><ul><li><a href="https://mail.qmul.ac.uk/" target="_blank">Student email</a></li><li><a href="http://my.qmul.ac.uk/" target="_blank">My QMUL</a></li><li><a href="https://www.qmsu.org/" target="_blank">Queen Mary Students' Union</a></li><li><a href="http://www.arcs.qmul.ac.uk/students/" target="_blank">Student Enquiry Centre</a></li><li><a href="https://qmplus.qmul.ac.uk/course/view.php?id=22700">QMplus for students</a></li><li><a href="http://www.careers.qmul.ac.uk/" target="_blank">Careers</a></li></ul></div>
-                    </div>
-        
-                    <div class="col-sm-12 col-md-6 col-lg-3">
-                        <h4 class="title">Library</h4>
-                        <div class="list"><ul>
+    </div>
+</div></div>
+                
+            </section>
+        </div>
+    </div>
+</div>
+
+<section class="edge--bottom">&nbsp;</section>
+<footer id="page-footer" data-region="mainpage" class="bg-inverse">
+    <div class="container-fluid">
+        <div class="footer-lists row">
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <h4 class="title">Student Life</h4>
+                <div class="list"><ul><li><a href="https://mail.qmul.ac.uk/" target="_blank">Student email</a></li><li><a href="http://my.qmul.ac.uk/" target="_blank">My QMUL</a></li><li><a href="https://www.qmsu.org/" target="_blank">Queen Mary Students' Union</a></li><li><a href="http://www.arcs.qmul.ac.uk/students/" target="_blank">Student Enquiry Centre</a></li><li><a href="https://qmplus.qmul.ac.uk/course/view.php?id=22700">QMplus for students</a></li><li><a href="http://www.careers.qmul.ac.uk/" target="_blank">Careers</a></li></ul></div>
+            </div>
+
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <h4 class="title">Library</h4>
+                <div class="list"><ul>
   <li><a href="https://qmplus.qmul.ac.uk/course/view.php?id=4359">Library Landing Page</a></li>
   <li><a href="https://www.qmul.ac.uk/library">Library Website</a></li>
    <li><a href="https://qmplus.qmul.ac.uk/course/view.php?id=6819">Find It! Use It! Reference It!</a></li>
@@ -294,11 +211,11 @@ document.body.className += ' jsenabled';
   <li><a href="https://citethemrightonline.com/">Cite Them Right</a></li>
   <li><a href="https://www.qmul.ac.uk/library/academic-skills">Academic Skills</a></li>
 </ul></div>
-                    </div>
-        
-                    <div class="col-sm-12 col-md-6 col-lg-3">
-                        <h4 class="title">Archives</h4>
-                        <div class="list"><ul>
+            </div>
+
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <h4 class="title">Archives</h4>
+                <div class="list"><ul>
   <li><a href="http://archive.qmplus.qmul.ac.uk/">Archive</a></li>
   <li><a href="https://2022.qmplus.qmul.ac.uk/">2022/23</a></li>
   <li><a href="https://2021.qmplus.qmul.ac.uk/">2021/22</a></li>
@@ -306,27 +223,27 @@ document.body.className += ' jsenabled';
   <li><a href="https://2019.qmplus.qmul.ac.uk/">2019/20</a></li>
   <li><a href="https://2018.qmplus.qmul.ac.uk/">2018/19</a></li>
 </ul></div>
-                    </div>
-        
-        
-                </div>
-                <div class="row">
-                    <div class="col-md-12 col-lg-7">
-                            <p dir="ltr" style="text-align: left;"></p><p dir="ltr"><img src="//www.qmul.ac.uk/media/ow-assets/assets/icons/qm-logo-white.svg" alt="QMUL logo" class="img-responsive atto_image_button_text-bottom" style="width:215px;height:auto;"></p><p dir="ltr">©Queen Mary University of London</p><p dir="ltr"><a href="/mod/page/view.php?id=85412">Site policies and guidelines</a>&nbsp;|&nbsp;&nbsp;<a href="/login/index.php?authShib=NOSHIB">Manual login</a></p><br><br>
-                        <a class="mobilelink" href="https://download.moodle.org/mobile?version=2022112806&amp;lang=en&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile">Get the mobile app</a>
-        
-        
-                    </div>
-                    <div class="col-md-12 col-lg-5">
-                        <div class="copyright mb-3">
-                            
-                        </div>
-        
-                    </div>
-                </div>
-        
-                <div class="tool_usertours-resettourcontainer text-center"></div>
+            </div>
+
+
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-lg-7">
+                    <p dir="ltr" style="text-align: left;"></p><p dir="ltr"><img src="//www.qmul.ac.uk/media/ow-assets/assets/icons/qm-logo-white.svg" alt="QMUL logo" class="img-responsive atto_image_button_text-bottom" style="width:215px;height:auto;"></p><p dir="ltr">©Queen Mary University of London</p><p dir="ltr"><a href="/mod/page/view.php?id=85412">Site policies and guidelines</a>&nbsp;|&nbsp;&nbsp;<a href="/login/index.php?authShib=NOSHIB">Manual login</a></p><br><br>
+                <a class="mobilelink" href="https://download.moodle.org/mobile?version=2022112806&amp;lang=en&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile">Get the mobile app</a>
+
+
+            </div>
+            <div class="col-md-12 col-lg-5">
+                <div class="copyright mb-3">
                     
+                </div>
+
+            </div>
+        </div>
+
+        <div class="tool_usertours-resettourcontainer text-center"></div>
+            
 <style>
 .quizinfo .que {
     display: block;
@@ -415,84 +332,11 @@ require(["media_videojs/loader"], function(loader) {
 });;
 M.util.js_pending('report_allylti/main'); require(['report_allylti/main'], function(amd) {amd.init(); M.util.js_complete('report_allylti/main');});;
 
-    require(['core/moremenu'], function(moremenu) {
-        moremenu(document.querySelector('#moremenu-655d3c4b9d7fe-navbar-nav'));
-    });
-;
-
-require(
-[
-    'jquery',
-],
-function(
-    $
-) {
-    var uniqid = "655d3c4b9f27b655d3c4b9e1fa2";
-    var container = $('#searchinput-navbar-' + uniqid);
-    var opensearch = container.find('[data-action="opensearch"]');
-    var input = container.find('[data-region="input"]');
-    var submit = container.find('[data-action="submit"]');
-
-    submit.on('click', function(e) {
-        if (input.val() === '') {
-            e.preventDefault();
-        }
-    });
-    container.on('hidden.bs.collapse', function() {
-        opensearch.removeClass('d-none');
-        input.val('');
-    });
-    container.on('show.bs.collapse', function() {
-        opensearch.addClass('d-none');
-    });
-    container.on('shown.bs.collapse', function() {
-        input.focus();
-    });
+require(['jquery', 'theme_boost/loader'], function($) {
+    $('#lp_carousel').carousel();
 });
 ;
-
-    require(['core/usermenu'], function(UserMenu) {
-        UserMenu.init();
-    });
-;
-
-require(['theme_catawesome/drawernew'], function(mod) {
-    mod.init();
-});
-;
-
-require(['theme_boost/loader']);
-require(['theme_boost/drawer'], function(mod) {
-    mod.init();
-});
-
-require(['theme_catawesome/waiting'], function(Waiting) {
-    Waiting.init();
-});
-
-require(['theme_catawesome/metismenu', 'jquery'], function(metisMenu, $) {
-    $(".metismenu").metisMenu();
-});
-
-$(document).ready(function(){
-    $("#topbutton").hide();
-    $(function (scrollTop) {
-        $(window).scroll(function () {
-            if ($(this).scrollTop() > 100) {
-                $('#topbutton').fadeIn();
-            } else {
-                $('#topbutton').fadeOut();
-            }
-        });
-
-        $('#topbutton').click(function () {
-            $('body,html').animate({
-                scrollTop: 0
-            }, 800);
-            return false;
-        });
-    });
-});
+M.util.js_pending('filter_oembed/oembed'); require(['filter_oembed/oembed'], function(amd) {amd.init(); M.util.js_complete('filter_oembed/oembed');});;
 
 ;
 M.util.js_pending('core/notification'); require(['core/notification'], function(amd) {amd.init(1, []); M.util.js_complete('core/notification');});;
@@ -517,92 +361,32 @@ M.str = {"moodle":{"lastmodified":"Last modified","name":"Name","error":"Error",
 Y.use("moodle-filter_glossary-autolinker",function() {M.filter_glossary.init_filter_autolinking({"courseid":0});
 });
 M.util.help_popups.setup(Y);
- M.util.js_pending('random655d3c4b9e1fa5'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random655d3c4b9e1fa5'); });
+ M.util.js_pending('random655d3fe797f462'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random655d3fe797f462'); });
 })();
 //]]>
 </script>
 
-                </div>
-        
-        
-                <div class="footer-content-debugging my-3">
-                    <div class="container-fluid">
-                        
-                    </div>
-                </div>
-        
-                <a onclick="('')" id="topbutton" class="back-to-top" title="Go to top"><i class="fa fa-chevron-up "></i></a>
+        </div>
+
+
+        <div class="footer-content-debugging my-3">
+            <div class="container-fluid">
+                
             </div>
-        </footer>
-        
-        <!-- Modal -->
-        <div class="modal fade" id="loadingmodal" tabindex="-1" role="dialog" aria-labelledby="loadingmodallabel" aria-hidden="true" data-waiting="0">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-                <div class="modal-content">
-                    <div class="modal-body">
-                        <h3>Loading...</h3>
-                        <div class="waitloader"></div>
-                    </div>
-                </div>
+        </div>
+
+        <a onclick="('')" id="topbutton" class="back-to-top" title="Go to top"><i class="fa fa-chevron-up "></i></a>
+    </div>
+</footer>
+
+<!-- Modal -->
+<div class="modal fade" id="loadingmodal" tabindex="-1" role="dialog" aria-labelledby="loadingmodallabel" aria-hidden="true" data-waiting="0">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <h3>Loading...</h3>
+                <div class="waitloader"></div>
             </div>
         </div>
     </div>
-    
-    <div id="nav-drawer" data-region="drawer" class="hidden-print hidden-mobile moodle-has-zindex " aria-hidden="false" tabindex="-1">
-        <a href="https://qmplus.qmul.ac.uk/?redirect=0" class="navbar-brand drawer has-logo
-                ">
-                <span class="logo">
-                    <img src="//qmplus.qmul.ac.uk/pluginfile.php/1/theme_catawesome/logo/1699998465/qm-logo-white.svg" alt="MyQMUL">
-                </span>
-        </a>
-        <nav class="mobile-custom-menu">
-            <ul class="metismenu">
-                <!-- custom_menu -->
-                <li class="nav-item">
-    <a class="nav-link" href="https://qmplus.qmul.ac.uk/course/" >All Modules</a>
-</li><li class="dropdown nav-item">
-    <a class="dropdown-toggle nav-link" id="drop-down-655d3c4ba00d6655d3c4b9e1fa3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#"  aria-controls="drop-down-menu-655d3c4ba00d6655d3c4b9e1fa3">
-        Help
-    </a>
-    <div class="dropdown-menu" role="menu" id="drop-down-menu-655d3c4ba00d6655d3c4b9e1fa3" aria-labelledby="drop-down-655d3c4ba00d6655d3c4b9e1fa3">
-                <a class="dropdown-item" role="menuitem" href="http://its.qmul.ac.uk"  >Raise a Ticket</a>
-                <a class="dropdown-item" role="menuitem" href="https://elearning.qmul.ac.uk/learning-applications/qmplus/"  >User Guides</a>
-    </div>
-</li>
-            </ul>
-        </nav>
-        <nav class="list-group" aria-label="Site">
-            <ul class="metismenu">
-                        <li class="nav-item">
-                            <a class="list-group-item list-group-item-action nav-link active active_tree_node " href="https://qmplus.qmul.ac.uk/" data-key="home" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="1" data-nodetype="1" data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0"  data-toggle="tooltip" data-placement="right"
-                            title="Home">
-                                <div class="ml-0">
-                                    <div class="media">
-                                            <span class="media-left">
-                                                <i class="icon fa icon-home fa-fw "   ></i>
-                                            </span>
-                                        <span class="media-body font-weight-bold">Home</span>
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="list-group-item list-group-item-action nav-link  " href="https://qmplus.qmul.ac.uk/calendar/view.php?view=month" data-key="calendar" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="60" data-nodetype="0" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="1" data-toggle="tooltip" data-placement="right"
-                            title="Calendar">
-                                <div class="ml-0">
-                                    <div class="media">
-                                            <span class="media-left">
-                                                <i class="icon fa icon-calendar fa-fw "   ></i>
-                                            </span>
-                                        <span class="media-body ">Calendar</span>
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-            </ul>
-        </nav>
-    </div>
 </div>
-
-</body>
-</html>
